@@ -79,3 +79,6 @@ The CIFAR-10 dataset contains images categorized into 10 classes. The primary ta
 ## **Conclusion**
 
 This project demonstrates the process of building a Convolutional Neural Network (CNN) for image classification using the CIFAR-10 dataset. The approach includes data preprocessing, model architecture design, training, and evaluation. The model is saved after training and used to make predictions on unseen data. This process highlights key concepts in deep learning, such as data preprocessing, model training, and evaluation, and shows how to apply these techniques to solve real-world image classification tasks. The project also emphasizes the importance of using frameworks like TensorFlow/Keras for efficiently building and training neural networks for image classification.
+
+## **OUTPUT**
+
