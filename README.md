@@ -82,3 +82,4 @@ This project demonstrates the process of building a Convolutional Neural Network
 
 ## **OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/545caa51-4991-4fbe-b0de-57536b68163d)
